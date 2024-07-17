@@ -20,8 +20,7 @@ public class dna {
     }
 
     public static void main(String[] args) {
-        System.out.println("Hello worldss!");
-        System.out.println("Hello again!3");
+        System.out.println("Hello world!");
         String test = mutate("ATGUGG", "ATG", "AAA");
         System.out.println(test);
     }
